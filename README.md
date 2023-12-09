@@ -2,7 +2,7 @@
 
 ## Description
 
-A data management system that allows you to view update a remove employees, roles, departments, and budgets.
+A backend application to test the functionality of an e-commerce store. This applications provides categories products and tags and they are all assoicated with each other in one way or another
 
 ## Table of Contents
 
@@ -16,17 +16,20 @@ A data management system that allows you to view update a remove employees, role
 
 ## Installation
 
-You will need to install node.js, express.js, inquirer@8.2.4, sequalize, mysql2, and mysql
+You will need to install node.js, dotenv, express, mysql2, and sequelize. you will also need to have mysql installed on your computer.
 
 ## Usage
 
-link to video tutorial
-https://watch.screencastify.com/v/zZUhs0BBlLvD9htYxCVN
 
+follow link to video tutorial
+https://watch.screencastify.com/v/YGDHQ7Y5eeIwgWyfQVDA
+
+
+    
 
 ## Credits
 
-None at this time
+none at this time
 
 ## License
     
@@ -41,7 +44,7 @@ Follow the link to my github below
 
 ## Tests
 
-None at this time
+none at this time, but you can test the routes through insomnia
 
 
 ## Questions
